@@ -1,5 +1,7 @@
 # Fleet Protocol
 
+![CI](https://github.com/SuperInstance/fleet-protocol/workflows/CI/badge.svg)
+
 > The shared language, wire format, and coordination protocol for the SuperInstance fleet.
 
 ## Overview
